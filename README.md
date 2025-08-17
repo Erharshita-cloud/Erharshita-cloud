@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/8aac18f4-0191-476b-88ff-6dae74e3c257.png" alt="Harshita Goel Banner" />
-</p>
+![Harshita Goel Banner](https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=900&lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Terraform+%7C+Jenkins+%7C+Kubernetes;Automation%2C+Scalability%2C+Reliability+%E2%9A%99%EF%B8%8F" />
