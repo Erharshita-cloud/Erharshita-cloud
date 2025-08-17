@@ -67,12 +67,12 @@
 ## 🏅 Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/9b786884-3d2f-4f04-af5d-77575d282695.png" alt="CSCU Badge" height="140"/>
+  <img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/CSCU Badge.png" alt="CSCU Badge" height="140"/>
   <br><strong>EC-Council CSCU</strong>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/5d5480c9-f95c-4c05-8740-d8e578df4d6b.png" alt="Azure Fundamentals Badge" height="140"/>
+  <img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/Azure Fundamentals Badge.png" alt="Azure Fundamentals Badge" height="140"/>
   <br><strong>Microsoft Certified: Azure Fundamentals</strong>
 </p>
 
