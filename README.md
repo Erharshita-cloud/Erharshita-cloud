@@ -56,14 +56,25 @@
 - **AWS EC2 Auto Scaling & Load Balancer** – Fault-tolerant web app with auto-scaling, ALB, and real-time monitoring.  
 - **Secure Cloud Architecture** – Hardened AWS VPC with advanced IAM and layered network security.  
 - **End-to-End CI/CD Pipeline** – Automated build, test & deploy using Jenkins, GitHub, and EC2.  
-
-> Pin your repos for these from your profile → **Customize profile → Pins**.
-
 ---
 
 ## 🎓 Certifications & Courses
 `AZ-900` • `AWS Intro to Cloud (IIT Kanpur)` • `Advanced Cloud on Azure (IIT Kanpur)` •  
 `RHCSA (IIT Kanpur)` • `CSCU` • `CHFI` • `Cybersecurity – IIT Kanpur`
+
+---
+---
+## 🏅 Badges
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/9b786884-3d2f-4f04-af5d-77575d282695.png" alt="CSCU Certification" height="140"/>
+  <br><strong>EC-Council CSCU</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/5d5480c9-f95c-4c05-8740-d8e578df4d6b.png" alt="Azure Fundamentals" height="140"/>
+  <br><strong>Microsoft Certified: Azure Fundamentals</strong>
+</p>
 
 ---
 
