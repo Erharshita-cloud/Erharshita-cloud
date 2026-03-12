@@ -21,23 +21,23 @@
 ## ⚡ About Me
 
 ```yaml
-name:        Harshita Goel
-role:        Cloud & DevOps Engineer
-location:    Meerut, Uttar Pradesh, India
-experience:  2 Internships · Best Performer Award 🏆
+Name:        Harshita Goel
+Role:        Cloud & DevOps Engineer
+Location:    Meerut, Uttar Pradesh, India
+Experience:  2 Internships · Best Performer Award 🏆
 
-currently:
+Currently:
   - 🔭 Building: Multi-cloud IaC platform with Terraform + ArgoCD GitOps
   - 📡 Learning: Helm, K8s Operators, Observability Stack, DevSecOps
   - 🎯 Pursuing: AWS Solutions Architect (SAA-C03) · CKA
 
-strengths:
+Strengths:
   - ⚡ Reduced deployment time by 75% using GitHub Actions CI/CD
   - 🔐 Zero-downtime deployments with container orchestration
-  - 🛡️  Security-first infrastructure — IAM, Vault, SSL/TLS by default
+  - 🛡️ Security-first infrastructure — IAM, Vault, SSL/TLS by default
   - 📊 Full observability: Prometheus + Grafana + Loki
 
-certifications:
+Certifications:
   - ✅ RHCSA — Red Hat Certified System Administrator (IIT Kanpur)
   - ✅ Microsoft Azure Fundamentals (AZ-900)
   - ✅ AWS Cloud Computing (IIT Kanpur)
