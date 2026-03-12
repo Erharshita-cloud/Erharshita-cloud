@@ -1,277 +1,218 @@
+# Hi there, I'm Harshita Goel 👋
+
+<!-- Animated Header -->
 <div align="center">
 
-<!-- ANIMATED HEADER - No external image needed, pure capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Harshita%20Goel&fontAlign=50&fontAlignY=45&color=gradient&customColorList=6,11,20&fontColor=ffffff&fontSize=55&fontStyle=bold&stroke=7c3aed&strokeWidth=2&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20RHCSA%20%7C%20Best%20Performer&descAlign=50&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+![Harshita Goel Banner](https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/banner.png)
 
-<!-- Typing SVG - Fixed and shorter lines -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Building+Infra+That+Never+Fails;⚡+75%25+Faster+CI%2FCD+Pipelines;🔐+DevSecOps+%7C+Zero+CVEs+in+Prod;🏆+Best+Performer+Award+Winner;☁️+AWS+%7C+Azure+%7C+Terraform+%7C+K8s" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=00D4FF&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer+%E2%9A%A1;AWS+%7C+Azure+%7C+Terraform+%7C+Kubernetes+%7C+Docker;Building+Infra+That+Doesn't+Break+at+2+AM+%F0%9F%9B%A1%EF%B8%8F;CI%2FCD+%7C+GitOps+%7C+DevSecOps+%7C+Observability;RHCSA+Certified+%7C+AWS+Certified+%7C+Best+Performer+%F0%9F%8F%86" />
 
-<br/><br/>
+<br/>
 
-<!-- Badges Row -->
-[![Email](https://img.shields.io/badge/Gmail-harshitagoel1503-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitagoel1503@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harshitagoel1503%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitagoel1503@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshita_Goel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-goel-b06407286/)
 [![GitHub](https://img.shields.io/badge/GitHub-Erharshita--cloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erharshita-cloud)
-[![Profile Views](https://komarev.com/ghpvc/?username=Erharshita-cloud&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Erharshita-cloud)
+![Visitors](https://komarev.com/ghpvc/?username=Erharshita-cloud&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## ⚡ About Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+```yaml
+name:        Harshita Goel
+role:        Cloud & DevOps Engineer
+location:    Meerut, Uttar Pradesh, India
+experience:  2 Internships · Best Performer Award 🏆
 
-<img align="right" alt="DevOps GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+currently:
+  - 🔭 Building: Multi-cloud IaC platform with Terraform + ArgoCD GitOps
+  - 📡 Learning: Helm, K8s Operators, Observability Stack, DevSecOps
+  - 🎯 Pursuing: AWS Solutions Architect (SAA-C03) · CKA
 
-```python
-#!/usr/bin/env python3
-# harshita_goel.py
+strengths:
+  - ⚡ Reduced deployment time by 75% using GitHub Actions CI/CD
+  - 🔐 Zero-downtime deployments with container orchestration
+  - 🛡️  Security-first infrastructure — IAM, Vault, SSL/TLS by default
+  - 📊 Full observability: Prometheus + Grafana + Loki
 
-class HarshitaGoel:
-
-    name       = "Harshita Goel"
-    role       = "Cloud & DevOps Engineer ⚡"
-    location   = "Meerut, Uttar Pradesh, India 🇮🇳"
-
-    certifications = [
-        "✅ RHCSA — Red Hat (IIT Kanpur)",
-        "✅ Microsoft Azure Fundamentals AZ-900",
-        "✅ AWS Cloud Computing (IIT Kanpur)",
-        "✅ CHFI — EC-Council",
-        "✅ CSCU — EC-Council",
-        "🔄 AWS SAA-C03     [68% done]",
-        "🔄 CKA Kubernetes  [45% done]",
-    ]
-
-    achievements = {
-        "🏆 Award"   : "Best Performer — Elevate Labs",
-        "⚡ CI/CD"   : "75% faster deployments",
-        "🛡️  Security": "0 CVEs shipped to prod",
-        "📈 Uptime"  : "99.9% SLA maintained",
-        "🚀 Deploys" : "Zero manual deployments",
-    }
-
-    stack = [
-        "AWS · Azure · GCP · Terraform · Ansible",
-        "Docker · Kubernetes · ArgoCD · Helm",
-        "GitHub Actions · Jenkins · GitLab CI",
-        "Prometheus · Grafana · Loki · ELK",
-        "Python · Bash · Linux · NGINX · Vault",
-    ]
-
-    def motto(self):
-        return "Automate everything. Break staging. Sleep through prod. 🚀"
-
-if __name__ == "__main__":
-    me = HarshitaGoel()
-    print(me.motto())
-# → Automate everything. Break staging. Sleep through prod. 🚀
+certifications:
+  - ✅ RHCSA — Red Hat Certified System Administrator (IIT Kanpur)
+  - ✅ Microsoft Azure Fundamentals (AZ-900)
+  - ✅ AWS Cloud Computing (IIT Kanpur)
+  - ✅ CHFI — Computer Hacking Forensic Investigator
+  - ✅ CSCU — Certified Secure Computer User
+  - 🔄 AWS Solutions Architect SAA-C03 [In Progress]
+  - 🔄 CKA — Certified Kubernetes Administrator [In Progress]
 ```
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Arsenal
+## 🚀 Animated Tech Stack
 
+<!-- Row 1: Cloud Platforms -->
 <div align="center">
 
-**☁️ Cloud Platforms**
+### ☁️ Cloud Platforms
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark&perline=3" />
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" height="50"/>
+</div>
 
-<br/><br/>
+<!-- Row 2: IaC -->
+<div align="center">
 
-**🏗️ Infrastructure as Code**
-
-<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" height="50"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+### 🏗️ Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
+<img src="https://img.shields.io/badge/CloudFormation-CC0000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
-<br/><br/>
+</div>
 
-**🔄 CI/CD & GitOps**
+<!-- Row 3: CI/CD -->
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,git&theme=dark" height="50"/>
-&nbsp;
+### 🔄 CI/CD & GitOps
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab&theme=dark" />
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flux-5468FF?style=for-the-badge&logo=flux&logoColor=white"/>
-<img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
 
-<br/><br/>
+</div>
 
-**🐳 Containers & Orchestration**
+<!-- Row 4: Containers -->
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" height="50"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+### 🐳 Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+<img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white"/>
 
-<br/><br/>
+</div>
 
-**📊 Observability Stack**
+<!-- Row 5: Monitoring -->
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="50"/>
-&nbsp;
+### 📊 Monitoring & Observability
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
 <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
 
-<br/><br/>
+</div>
 
-**🔐 Security & DevSecOps**
+<!-- Row 6: Security -->
+<div align="center">
 
-<img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
+### 🔐 Security & DevSecOps
+<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
 <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>
-<img src="https://img.shields.io/badge/OPA-7D3C98?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-214B8C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS_WAF-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<br/><br/>
+</div>
 
-**💻 OS · Dev · Scripting**
+<!-- Row 7: OS & Dev -->
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,nginx,vim,vscode&theme=dark" height="50"/>
-&nbsp;
+### 💻 OS, Scripting & Web
+<img src="https://skillicons.dev/icons?i=linux,python,bash,nginx,git&theme=dark" />
 <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 🛠️ Stack | ⚡ Impact |
+|---|---|---|
+| **AWS Auto Scaling & Load Balancer** | EC2, ALB, Auto Scaling, CloudWatch | Fault-tolerant, self-healing architecture |
+| **Secure Multi-Tier AWS VPC** | VPC, IAM, NAT Gateway, NACLs | Zero-trust network, 0 unauthorized access |
+| **End-to-End CI/CD Pipeline** | Jenkins, GitHub Actions, Docker, EC2 | 75% faster deployments, zero manual steps |
+| **Django App on Linux VPS** | Gunicorn, NGINX, PostgreSQL, SSL | 99.9% uptime, automated backups |
+| **Flask App on AWS ECS Fargate** | Docker, ECS, Terraform, CloudWatch | Auto-scaling, cost-optimized containers |
+
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> Featured Projects
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| # | 🚀 Project | 🛠️ Stack | 💥 Impact |
-|---|-----------|----------|-----------|
-| 1 | **AWS Auto Scaling + ALB** | EC2 · ALB · CloudWatch · SNS | Fault-tolerant · self-healing |
-| 2 | **Secure Multi-Tier VPC** | VPC · IAM · NAT · NACLs · SG | Zero-trust · 0 unauthorized access |
-| 3 | **End-to-End CI/CD Pipeline** | Jenkins · GitHub Actions · Docker | **75% faster** · zero manual steps |
-| 4 | **K8s + Full Observability** | EKS · Helm · Prometheus · Grafana | SLO dashboards · auto-alerts |
-| 5 | **Django App on Linux VPS** | Gunicorn · NGINX · PostgreSQL · SSL | 99.9% uptime · auto-backups |
-| 6 | **Flask App on ECS Fargate** | Docker · ECS · Terraform · IAM | Auto-scale · cost-optimized |
-| 7 | **DevSecOps Pipeline** | Trivy · Snyk · Vault · Actions | **0 CVEs** shipped to production |
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Erharshita-cloud&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical&border_color=7c3aed" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erharshita-cloud&layout=compact&langs_count=8&theme=radical&border_color=7c3aed" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+<img height="180" src="https://streak-stats.demolab.com?user=Erharshita-cloud&theme=radical&border=7c3aed" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Erharshita-cloud&theme=radical&no-bg=true&no-frame=true&margin-w=10&column=7" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erharshita-cloud&theme=react-dark&hide_border=true&color=7c3aed&line=00d4ff&point=ec4899" />
+
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> GitHub Analytics
+## 🏅 Certifications & Badges
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Erharshita-cloud&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=c084fc&icon_color=00d4ff&text_color=e2e8f0&hide_border=false" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erharshita-cloud&layout=compact&langs_count=8&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0" />
+<img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/CSCU Badge.png" alt="CSCU Badge" height="130"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/Azure Fundamentals Badge.png" alt="Azure Fundamentals Badge" height="130"/>
+
+**EC-Council CSCU** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Microsoft Azure Fundamentals AZ-900**
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Erharshita-cloud&theme=radical&border=7c3aed&background=0d1117&ring=c084fc&fire=ec4899&currStreakLabel=ec4899" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Erharshita-cloud&theme=radical&no-bg=true&no-frame=true&margin-w=8&column=7" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erharshita-cloud&theme=react-dark&bg_color=0d1117&color=c084fc&line=00d4ff&point=ec4899&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🏅 Certification Badges
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/CSCU%20Badge.png" height="130" alt="CSCU Badge"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/Azure%20Fundamentals%20Badge.png" height="130" alt="AZ-900 Badge"/>
-
-<br/>
-
-**🛡️ EC-Council CSCU** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🔷 Microsoft Azure Fundamentals AZ-900**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🌱 Current Learning Progress
+## 🌱 Currently Working On
 
 ```bash
-┌──(harshita㉿devops-lab)-[~/certifications]
-└─$ cat progress.log
+$ kubectl get learning --all-namespaces
 
-[AWS Solutions Architect SAA-C03] ████████░░░░  68%  🔄 In Progress
-[CKA Certified Kubernetes Admin ] █████░░░░░░░  45%  🔄 In Progress
-[Terraform Associate            ] █████████░░░  80%  🔄 In Progress
-[ArgoCD GitOps Deployment       ] █████████░░░  90%  🔥 Almost Done
-[Prometheus + Grafana + Loki    ] ████████████ 100%  ✅ Complete
-[DevSecOps Pipeline (Trivy+Vault] ████████████ 100%  ✅ Complete
-[AIOps + AI in CI/CD            ] ██████░░░░░░  55%  🔄 In Progress
-
-└─$ echo "Never stop shipping. Never stop learning. 🚀"
+NAMESPACE         NAME                           STATUS      PROGRESS
+cloud             aws-solutions-architect        Running     68%
+kubernetes        cka-certified-k8s-admin        Running     45%
+devsecops         trivy-vault-pipeline           Running     80%
+gitops            argocd-multi-env-deploy        Running     90%
+observability     prometheus-grafana-loki        Completed   100% ✅
+iac               terraform-multi-cloud          Running     75%
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-> ### *"I build infrastructure that doesn't break at 2 AM.*
-> ### *Every deploy automated. Every alert actionable. Every system resilient."*
+> *"I build infrastructure that doesn't break at 2 AM.  
+> Every deployment version-controlled. Every alert actionable. Every process automated."*
 
-<br/>
-
-[![Gmail](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitagoel1503@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-goel-b06407286/)
-
-<br/>
-
-**⭐ Star my repos if they helped you — it keeps me going! ⭐**
+[![Email](https://img.shields.io/badge/Email-harshitagoel1503%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitagoel1503@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-goel-b06407286/)
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7c3aed,50:00d4ff,100:ec4899&fontColor=ffffff" />
