@@ -1,9 +1,9 @@
 # Hi there, I'm Harshita Goel 👋
 
 <!-- Animated Header -->
-<div align="center">
-
-![Harshita Goel Banner](https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/banner.png" />
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=00D4FF&center=true&vCenter=true&width=1000&lines=Cloud+%26+DevOps+Engineer+%E2%9A%A1;AWS+%7C+Azure+%7C+Terraform+%7C+Kubernetes+%7C+Docker;Building+Infra+That+Doesn't+Break+at+2+AM+%F0%9F%9B%A1%EF%B8%8F;CI%2FCD+%7C+GitOps+%7C+DevSecOps+%7C+Observability;RHCSA+Certified+%7C+AWS+Certified+%7C+Best+Performer+%F0%9F%8F%86" />
 
