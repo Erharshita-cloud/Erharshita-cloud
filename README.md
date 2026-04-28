@@ -181,7 +181,6 @@ Certifications:
 &nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Erharshita-cloud/Erharshita-cloud/main/Azure Fundamentals Badge.png" alt="Azure Fundamentals Badge" height="130"/>
 
-**EC-Council CSCU** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Microsoft Azure Fundamentals AZ-900**
 
 </div>
 
